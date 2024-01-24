@@ -1,6 +1,7 @@
 <h1>RealTimeBusTracker</h1>
 
-<p>This current project's purpose was to use (MBTA) JSON data to populate a Mapbox API every 15 seconds, to illustrate each bus stop from MIT to Harvard.</p>
+<p>This current project's purpose was to use (MBTA) JSON data to populate a Mapbox API every 15 seconds, to illustrate each bus stop from MIT to Harvard. Some of the changes that were made are; The button is now 3-D and a different color, I changed the color of the marker to white and finally I chose a different map version offered by Mapbox.
+</p>
 
 <h2>How to Run Code on Your Machine</h2>
 
