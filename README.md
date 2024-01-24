@@ -1,8 +1,8 @@
-# RealTimeBusTracker
+<h1>RealTimeBusTracker</h1>
 
 <p>This current project's purpose was to use (MBTA) JSON data to populate a Mapbox API every 15 seconds, to illustrate each bus stop from MIT to Harvard.</p>
 
-<h1>How to Run Code on Your Machine</h1>
+<h2>How to Run Code on Your Machine</h2>
 
 <p>
 1. Download the following files:
@@ -16,4 +16,4 @@
 
 </p>
 
-<h2>Road to Future Improvements</h2>
+<h3>Road to Future Improvements</h3>
