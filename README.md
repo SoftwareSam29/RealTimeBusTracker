@@ -23,5 +23,5 @@
 </p>
 <img src="MapAnimation.png"
   style="object-fit:contain;
-         width:400px;
-         height:300px" />
+         width:500px;
+         height:400px" />
