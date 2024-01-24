@@ -22,5 +22,5 @@
   In the future I would like to incorporate more styling into my projects; possibly a different marker, more 3-D animation or visuals, and other minor details that help a project stand out! 
 </p>
 <img src="MapAnimation.png"
-  width="200px"
-  height="250px" />
+  width="400px"
+  height="3000px" />
