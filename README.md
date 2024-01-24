@@ -19,6 +19,6 @@
 
 <h3>Road to Future Improvements</h3>
 <p>
-  In the future I would like to incorporate more styling into my projects; possibly a different marker, some 3-D animation or visuals, and other minor details that help a project stand out! 
+  In the future I would like to incorporate more styling into my projects; possibly a different marker, more 3-D animation or visuals, and other minor details that help a project stand out! 
 </p>
-<img src='MapAnimation.png'>
+<img src="MapAnimation.png">
